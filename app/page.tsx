@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
         <p style={{ fontSize: '20px', color: '#94a3b8', maxWidth: '800px', margin: '0 auto 40px' }}>
           Tecnologia de Auditoria para identificar liquidez represada contra Réus de Ouro (Bancos e S/A). 
-          Saneamos carteiras de alta escala em 48h. [cite: 2025-12-24]
+          Saneamos carteiras de alta escala em 48h. 
         </p>
         <a href={whatsappLink} target="_blank" style={{ backgroundColor: '#eab308', color: '#020617', padding: '18px 40px', borderRadius: '50px', fontWeight: 'bold', fontSize: '18px', textDecoration: 'none', display: 'inline-block', boxShadow: '0 10px 15px -3px rgba(234, 179, 8, 0.3)' }}>
           🚀 Solicitar Diagnóstico Gratuito (50 Processos)
@@ -54,7 +54,7 @@ export default function Home() {
           <div style={{ flex: '1 1 500px' }}>
             <h2 style={{ fontSize: '28px', marginBottom: '20px' }}>Área do Cliente (SaaS)</h2>
             <p style={{ color: '#cbd5e1', marginBottom: '20px', lineHeight: '1.6' }}>
-              Nossa plataforma de Inteligência Jurídica realiza o saneamento automático. Identificamos processos parados com réus solventes, aplicando a lógica de <b>Companion Numbers (44-33-49)</b> para maximizar o êxito. [cite: 2025-12-24]
+              Nossa plataforma de Inteligência Jurídica realiza o saneamento automático. Identificamos processos parados com réus solventes, aplicando a lógica de <b>Companion Numbers</b> para maximizar o êxito.
             </p>
             <div style={{ marginBottom: '10px' }}>✅ Saneamento eProc / PJe / Projudi</div>
             <div style={{ marginBottom: '10px' }}>✅ Identificação de Devedores Solventes</div>
@@ -70,7 +70,7 @@ export default function Home() {
 
       <footer style={{ padding: '40px', textAlign: 'center', color: '#475569', fontSize: '14px', borderTop: '1px solid #1e293b' }}>
         © 2026 Advogado Nômade - Dr. Reginaldo Oliveira (OAB/SC 57.879). <br/>
-        Estratégia baseada em padrões de alta liquidez. [cite: 2025-12-24]
+        Estratégia baseada em padrões de alta liquidez.
       </footer>
     </main>
   );
