@@ -38,7 +38,7 @@ export default function Home() {
           <div style={{ background: '#0f172a', padding: '30px', borderRadius: '20px', border: '1px solid #1e293b' }}>
             <p style={{ color: '#64748b', fontSize: '12px', fontWeight: 'bold', marginBottom: '10px' }}>PROCESSOS EM AUDITORIA</p>
             <h2 style={{ fontSize: '32px', fontWeight: '800', color: '#f8fafc' }}>8.420 Autos</h2>
-            <div style={{ color: '#94a3b8', fontSize: '12px', marginTop: '5px' }}>Filtro: Réus Solventes [cite: 2025-12-24]</div>
+            <div style={{ color: '#94a3b8', fontSize: '12px', marginTop: '5px' }}>Filtro: Réus Solventes</div>
           </div>
           <div style={{ background: '#0f172a', padding: '30px', borderRadius: '20px', border: '1px solid #1e293b' }}>
             <p style={{ color: '#64748b', fontSize: '12px', fontWeight: 'bold', marginBottom: '10px' }}>ASSERTIVIDADE DE RECUPERAÇÃO</p>
@@ -56,7 +56,7 @@ export default function Home() {
             <p style={{ color: '#cbd5e1', marginBottom: '20px', lineHeight: '1.6' }}>
               Nossa plataforma de Inteligência Jurídica realiza o saneamento automático. Identificamos processos parados com réus solventes, aplicando a lógica de <b>Companion Numbers</b> para maximizar o êxito.
             </p>
-            <div style={{ marginBottom: '10px' }}>✅ Saneamento eProc / PJe / Projudi</div>
+            <div style={{ marginBottom: '10px' }}>✅ Saneamento eProc / PJe / Projudi e outros Sistemas</div>
             <div style={{ marginBottom: '10px' }}>✅ Identificação de Devedores Solventes</div>
             <div>✅ Relatórios de Provisão de Honorários</div>
           </div>
